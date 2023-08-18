@@ -1,0 +1,124 @@
+*{
+    padding: 0px;
+    margin: 0px;
+   }
+    .start{
+   background-color: #1abc9c;
+   height: 500px;
+   color: #fff;
+    }
+    .start{
+
+      transition: background-color 0.3s ease;
+    }
+    .button-link:hover {
+      background-color: #e74c3c;
+  }
+
+   .start h2{
+    text-align: center;
+    color: #fff;
+   }
+   .start img {
+      width: 18%;
+   }
+   
+    .menu{
+       height:45px ;
+       position: fixed;
+       background-color:rgb(44,62,80);
+       text-align: right;
+       width: 100%;
+       color: #fff;
+   
+    }
+    .menu button{
+      background-color:rgb(44,62,80);      ;
+      border: 0px;
+      color: #fff;
+   
+    }
+   .menu h3{
+    color: #fff;
+   text-align: left;
+   }
+
+
+.hover-image {
+    transition: filter 0.3s ease; 
+}
+
+.hover-image:hover {
+    filter: invert(100%); 
+}
+   .acercade{
+         background-color: #1abc9c;
+         height: 400px;
+         width: 1899px;
+           color: #fff;
+        }
+         
+   .acercade button{
+      background-color: aqua;
+      color: #333;
+      border: 20px solid #1abc9c;
+   
+   }
+   
+   .contacto {
+      width: 80% ;
+      margin: 3 auto;
+      text-align : center;
+      margin-right:100px ;
+    }
+    
+    .contacto button{
+
+      background-color: #1abc9c ;
+      color: #fff;
+      width: 10%;
+    }
+    
+    
+    
+    
+    
+    label {
+      display:contents;
+      margin-bottom: 15px;
+    }
+    
+    textarea {
+      width: 90%;
+      padding: 10px;
+      border: 1px solid #ccc;
+      border-radius: 20px;
+      resize: vertical; 
+    }
+    .contacto  {
+   background-color: #fff;
+   width: 1899px;
+   height: 440px;
+    }
+    .footer{
+      background-color:rgb(44,62,80);      ;
+      width: 1899px;
+      height: 240px;
+      color: #fff;
+    }
+
+
+    .footer {
+      display: flex;
+      justify-content: space-between; /* Distribuye los textos a lo largo del espacio disponible */
+      padding: 20px;
+  }
+  .text-block {
+      flex-basis: 9%; /* Ancho fijo para cada bloque de texto */
+      background-color:rgb(44,62,80);
+      padding: 10px;
+      border: 1px solid rgb(44,62,80);
+  }
+
+    
+       
